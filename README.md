@@ -1,1 +1,1 @@
-# GameKaihatsuJissenProject
+# ゲーム開発実践授業のプロジェクト
